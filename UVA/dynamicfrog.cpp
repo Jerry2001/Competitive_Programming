@@ -1,6 +1,6 @@
 /*
     Ngô Hồng Phúc - ngohongphuc2001
-    11157	Dynamic Frog  GNU C++14
+    11157	Dynamic Froggi  GNU C++14
 */
 #include<bits/stdc++.h>
 
