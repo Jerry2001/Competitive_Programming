@@ -1,3 +1,7 @@
+/*
+    Ngô Hồng Phúc - ngohongphuc2001
+    #greedy
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
