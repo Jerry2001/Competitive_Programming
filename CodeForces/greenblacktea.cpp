@@ -1,3 +1,7 @@
+/*
+    Ngô Hồng Phúc - ngohongphuc2001
+    746D - Green and Black Tea GNU C++14
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
